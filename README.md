@@ -37,7 +37,12 @@ git clone git@github.com:Mr-Pratham09/PropX-Login-Page.git
 
 2. Navigate to the project folder:
 ```bash
-cd PropX Login Page
+cd PropX-Login-Page
+```
+
+2. Navigate again to the project folder:
+```bash
+cd login-register-app
 ```
 
 3. Install the dependencies:
