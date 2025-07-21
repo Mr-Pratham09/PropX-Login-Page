@@ -1,6 +1,6 @@
 # PropX Login Page
 
-A responsive React.js authentication UI for the PopX platform. This project includes registration, login, logout, and account settings features using localStorage for data handling. Built with React, Tailwind CSS, and React Icons, it offers a clean, modern UI and smooth user experience—perfect for showcasing front-end skills without backend integration.
+A responsive React.js authentication UI for the PopX platform. This project includes registration, login, logout, and account settings features using localStorage for data handling. Built with React, Tailwind CSS, and React Icons, it offers a clean, modern UI and smooth user experience perfect for showcasing front-end skills without backend integration.
 
 ## Live Demo
 
@@ -21,10 +21,6 @@ Simple account settings page displaying user info.
 Logout button to clear session and redirect to login.
 
 Clean, responsive UI with Tailwind CSS and React Icons.
-
-## Note
-
-This project was created as part of an internship assignment test to demonstrate my React.js and frontend development skills.
 
 ## Installation
 
