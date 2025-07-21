@@ -4,7 +4,7 @@ A responsive React.js authentication UI for the PopX platform. This project incl
 
 ## Live Demo
 
-[Live Demo](https://dazzling-biscuit-82fcfd.netlify.app/)
+[Live Demo](https://astonishing-starlight-aa7038.netlify.app/)
 
 
 ## Built With
